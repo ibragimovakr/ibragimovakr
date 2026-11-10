@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:070B17,50:30215C,100:105B72&height=190&text=Kseniia%20Ibragimova&fontSize=39&fontColor=F8F8FF&fontAlignY=38&desc=Machine%20Learning%20%C2%B7%20Mathematics%20%C2%B7%20Research&descAlignY=60&descSize=15&descColor=B7B4D9&animation=fadeIn)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:22142F,50:7B3F91,100:D77FA9&height=190&text=Kseniia%20Ibragimova&fontSize=39&fontColor=F8F8FF&fontAlignY=38&desc=Machine%20Learning%20%C2%B7%20Mathematics%20%C2%B7%20Research&descAlignY=60&descSize=15&descColor=F2D9F0&animation=fadeIn)
 
 Interested in the mathematical foundations of ML: learning dynamics, high-dimensional inference, and probabilistic generative modelling.
 
@@ -27,4 +26,6 @@ Interested in the mathematical foundations of ML: learning dynamics, high-dimens
 ---
 ### Stack
 
-`Python` · `C++` · `PyTorch` · `TensorFlow` · `NumPy` · `Hugging Face Transformers` · `vLLM`
+`Python` · `C++` · `PyTorch` · `TensorFlow` · `NumPy` · `Hugging Face Transformers` 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-C084FC?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kseniia-ibragimova-659b36372)
