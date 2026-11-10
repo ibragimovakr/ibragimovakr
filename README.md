@@ -18,10 +18,10 @@ Interested in the mathematical foundations of ML: learning dynamics, high-dimens
   Developed a conditional flow-matching model combining complementary collision simulators. Designed physics-aware losses and separate discriminators for different particle groups.\
   `CHEP 2026 — Poster · Paper in preparation`
 - [**Diffractive Deep Neural Networks (D2NN)**](https://github.com/ibragimovakr/D2NN_final)\
-  Differentiable optical propagation with trainable phase masks. Developed physics-informed initialization using the Gerchberg–Saxton algorithm and wavefront matching, and studied robustness to phase defects and wavelength perturbations.
+  Differentiable optical propagation with trainable phase masks. Developed physics-informed initialization using the Gerchberg–Saxton algorithm and wavefront matching, and studied robustness to phase defects and wavelength perturbations.<br>
   `Best Talk — 68th Scientific Conference`
 - [**Spin Glasses & Neural Networks**](https://github.com/ibragimovakr/spinglass)\
-  Studied neural-network optimization through spin-glass models, TAP equations, and Monte Carlo annealing. Investigated connections between phase behavior, energy landscapes, and learning dynamics.
+  Studied neural-network optimization through spin-glass models, TAP equations, and Monte Carlo annealing. Investigated connections between phase behavior, energy landscapes, and learning dynamics.<br>
   `Best Talk — 67th Scientific Conference`
 ---
 ### Stack
